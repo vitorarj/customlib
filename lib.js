@@ -1,3 +1,5 @@
 <script>
-    console.log("teste");
+    function minhaFuncao() {
+    console.log("teste")
+     } 
 </script>
