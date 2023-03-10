@@ -13,7 +13,7 @@ function exibirMensagem(mensagem) {
     elemento.classList.remove(classe);
   }
 
-  export async function registerCustomer(params) {
+  async function registerCustomer(params) {
     //Chamada para api.consigmais.com.br
 
     try {
